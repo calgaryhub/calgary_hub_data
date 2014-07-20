@@ -1,8 +1,10 @@
 {
   "title": "Peter's Drive-In",
   "address": "219 16 Avenue NE",
+  "phone": "403-277-2747",
   "website":"http://www.petersdrivein.com/",
   "tags": [
-    "burgers"
+    "burgers",
+    "late_night"
   ]
 }

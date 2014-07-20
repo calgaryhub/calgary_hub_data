@@ -1,9 +1,11 @@
 {
   "title": "Pizza Bob's",
   "address": "2610 Kensington Rd. NW",
+  "website": "http://pizzabobs.ca",
   "phone": "403-521-BOBS",
   "tags": [
     "karaoke",
-    "live_music"
+    "live_music",
+    "late_night"
   ]
 }
