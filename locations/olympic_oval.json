@@ -1,5 +1,8 @@
 {
-"title": "Olympic Oval",
-"address": "2500 University Drive NW",
-"website":"http://oval.ucalgary.ca/"
+  "title": "Olympic Oval",
+  "address": "2500 University Drive NW",
+  "website":"http://oval.ucalgary.ca/",
+  "tags": [
+    "ice_skating"
+  ]
 }

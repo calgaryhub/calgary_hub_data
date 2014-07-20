@@ -1,5 +1,8 @@
 {
-"title": "Phil & Sebastian - Chinook",
-"address": "1159, 6455 Macleod Trail S",
-"website":"https://www.philsebastian.com/"
+  "title": "Phil & Sebastian - Chinook",
+  "address": "1159, 6455 Macleod Trail S",
+  "website":"https://www.philsebastian.com/",
+  "tags": [
+    "indie_coffee_shop"
+  ]
 }

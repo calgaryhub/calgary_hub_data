@@ -1,5 +1,8 @@
 {
-"title": "Jack Singer Concert Hall",
-"address": "205 8 Avenue SE",
-"website":"http://www.epcorcentre.org/"
+  "title": "Jack Singer Concert Hall",
+  "address": "205 8 Avenue SE",
+  "website":"http://www.epcorcentre.org/",
+  "tags": [
+    "live_music"
+  ]
 }

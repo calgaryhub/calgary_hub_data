@@ -1,5 +1,7 @@
 {
-"title": "Calaway Park",
-"address": "245033 Range Road 33",
-"website":"http://www.calawaypark.com/"
+  "title": "Calaway Park",
+  "address": "245033 Range Road 33",
+  "website":"http://www.calawaypark.com/",
+  "tags": [
+  ]
 }

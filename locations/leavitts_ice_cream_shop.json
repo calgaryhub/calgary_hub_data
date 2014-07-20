@@ -1,4 +1,7 @@
 {
-"title": "Leavitt's Ice Cream Shop",
-"address": "3410 3rd Avenue NW"
+  "title": "Leavitt's Ice Cream Shop",
+  "address": "3410 3rd Avenue NW",
+  "tags": [
+    "ice_cream"
+  ]
 }

@@ -1,5 +1,8 @@
 {
-"title": "Republik Nightclub",
-"address": "219 17 Ave SW",
-"website":"http://www.therepublik.ca/"
+  "title": "Republik Nightclub",
+  "address": "219 17 Ave SW",
+  "website":"http://www.therepublik.ca/",
+  "tags": [
+    "live_music"
+  ]
 }

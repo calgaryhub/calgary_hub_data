@@ -1,5 +1,8 @@
 {
-"title": "Pages on Kensington",
-"address": "1135 Kensington Road NW",
-"website":"http://www.pages.ab.ca/"
+  "title": "Pages on Kensington",
+  "address": "1135 Kensington Road NW",
+  "website":"http://www.pages.ab.ca/",
+  "tags": [
+    "indie_book_store"
+  ]
 }

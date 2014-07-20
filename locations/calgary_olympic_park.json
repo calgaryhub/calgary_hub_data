@@ -1,5 +1,14 @@
 {
   "title": "Calgary Olympic Park",
   "website": "http://www.winsportcanada.com/cop/",
-  "address": "88 Canada Olympic Road, SW"
+  "address": "88 Canada Olympic Road, SW",
+  "tags": [
+    "museum",
+    "downhill_skiing",
+    "bobsled",
+    "ice_skating",
+    "luge",
+    "mountain_biking",
+    "zipline"
+  ]
 }

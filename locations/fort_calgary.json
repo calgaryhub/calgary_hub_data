@@ -1,5 +1,9 @@
 {
-"title": "Fort Calgary",
-"address": "750 9 Avenue SE",
-"website":"http://www.fortcalgary.com/"
+  "title": "Fort Calgary",
+  "address": "750 9 Avenue SE",
+  "website":"http://www.fortcalgary.com/",
+  "tags": [
+    "museum",
+    "public_garden"
+  ]
 }

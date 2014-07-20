@@ -1,5 +1,8 @@
 {
   "title": "Aero Space Museum of Calgary",
   "website": "http://www.asmac.ab.ca/",
-  "address": "4629 McCall Way NE"
+  "address": "4629 McCall Way NE",
+  "tags": [
+    "museum"
+  ]
 }

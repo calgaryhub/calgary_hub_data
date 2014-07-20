@@ -1,5 +1,8 @@
 {
-"title": "Fair's Fair Used Books - Macleod Trail",
-"address": "7400 Macleod Trail S",
-"website":"http://www.fairsfair.com/"
+  "title": "Fair's Fair Used Books - Macleod Trail",
+  "address": "7400 Macleod Trail S",
+  "website": "http://www.fairsfair.com/",
+  "tags": [
+    "indie_book_store"
+  ]
 }

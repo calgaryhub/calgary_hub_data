@@ -1,5 +1,8 @@
 {
-"title": "Fairmont Palliser",
-"address": "1208 9 Avenue SE",
-"website":"http://www.fairmont.com/palliser-calgary/"
+  "title": "Fairmont Palliser",
+  "address": "1208 9 Avenue SE",
+  "website":"http://www.fairmont.com/palliser-calgary/",
+  "tags": [
+    "swimming"
+  ]
 }

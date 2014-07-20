@@ -1,5 +1,8 @@
 {
   "title": "Calgary Tower",
   "website": "http://www.calgarytower.com",
-  "address": "101 9th Avenue SW"
+  "address": "101 9th Avenue SW",
+  "tags": [
+    "fine_dining"
+  ]
 }

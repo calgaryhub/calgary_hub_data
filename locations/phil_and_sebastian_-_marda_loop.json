@@ -1,5 +1,8 @@
 {
-"title": "Phil & Sebastian - Marda Loop",
-"address": "2043 33rd Ave SW",
-"website":"https://www.philsebastian.com/"
+  "title": "Phil & Sebastian - Marda Loop",
+  "address": "2043 33rd Ave SW",
+  "website":"https://www.philsebastian.com/",
+  "tags": [
+    "indie_coffee_shop"
+  ]
 }

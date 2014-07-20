@@ -1,5 +1,8 @@
 {
-"title": "Kawa Espresso Bar",
-"address": "1333 8 Street SW",
-"website":"http://kawacalgary.ca/"
+  "title": "Kawa Espresso Bar",
+  "address": "1333 8 Street SW",
+  "website":"http://kawacalgary.ca/",
+  "tags": [
+    "indie_coffee_shop"
+  ]
 }
