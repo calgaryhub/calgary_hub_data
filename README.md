@@ -10,6 +10,7 @@ Locations
 
 late_night - serves food/liquor until midnight or later at least 1 day a week
 24_hours - open 24 hours straight at least 1 day a week
+indie_coffee_shop - primarily serves coffee/tea, less than 10 shops, at least one in Calgary
 
 activities
 ----------
