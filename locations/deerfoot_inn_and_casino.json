@@ -1,5 +1,9 @@
 {
   "title": "Deerfoot Inn and Casino",
   "address": "1000, 11500 - 35 Street SE",
-  "website":"http://www.deerfootinn.com/"
+  "website":"http://www.deerfootinn.com/",
+  "tags": [
+    "casino",
+    "live_music"
+  ]
 }
