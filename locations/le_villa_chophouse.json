@@ -2,5 +2,8 @@
   "title": "Le Villa Chophouse",
   "address": "150-1800 4th St, SW",
   "phone": "403-453-3670",
-  "website": "http://levilla.ca"
+  "website": "http://levilla.ca",
+  "tags": [
+    "licensed"
+  ]
 }
