@@ -1,0 +1,11 @@
+{
+  "title": "Tweed Ride",
+  "website": "http://tweedrideyyc.com/",
+  "start": "201505181400",
+  "end": "20150518",
+  "description": "Registration/tea starts at East Village Experience Centre, post-ride at the Oak Tree Tavern",
+  "locations": [
+    "east_village_experience_centre",
+    "oak_tree_tavern"
+  ]
+}
